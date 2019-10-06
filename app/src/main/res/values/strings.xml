@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="title_text">Self,Gratirude,Journal</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_name">User Name</string>
+    <string name="title">Title</string>
+    <string name="thoughts">Thoughts</string>
+    <string name="add_thought">Add Thought</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="thought">Thoughts</string>
+    <string name="no_thoughts">Write a Journal Entry by Clicking the \'+\' icon above</string>
+</resources>
